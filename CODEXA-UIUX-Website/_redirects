@@ -1,0 +1,5 @@
+# Netlify Redirects
+/app        /app.html       200
+/calendar   /calendar.html  200
+/hire       /index.html     302
+/audit      /index.html     302
